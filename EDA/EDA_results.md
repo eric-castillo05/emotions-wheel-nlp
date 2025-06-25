@@ -25,3 +25,6 @@
 
 # Wordcloud
 ![Word cloud](img/word_cloud_noun_chunks.png)
+
+# Vader Score
+![Vader Score](img/vader_score.png)
