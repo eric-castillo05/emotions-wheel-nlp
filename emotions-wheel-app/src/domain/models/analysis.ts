@@ -3,6 +3,6 @@ export interface AnalysisResult {
     score: number[],
 }
 
-export interface AnalysisResquest {
+export interface AnalysisRequest {
     text: string
 }
