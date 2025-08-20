@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 .venv/
+translation/.idea
+translation/.venv
+translation/__pycache__
