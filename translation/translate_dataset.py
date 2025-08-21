@@ -10,9 +10,9 @@ import joblib
 import time
 from tqdm.auto import tqdm
 
-from marian_translator import en2esp_marian_cuda
+from marian_translator import en2esp_marian
 pipeline_steps = [
-    en2esp_marian_cuda
+    en2esp_marian
 ]
 
 num_threads = joblib.cpu_count()
