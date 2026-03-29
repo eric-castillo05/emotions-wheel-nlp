@@ -3,3 +3,4 @@
 translation/.idea
 translation/.venv
 translation/__pycache__
+.virtual_documents
